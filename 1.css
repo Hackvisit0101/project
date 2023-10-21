@@ -1,0 +1,79 @@
+*{
+    margin:0px;
+    padding: 0px;
+    /* background-color:cornflowerblue ; */
+}
+.first{
+    height: 100px;
+}
+.navbar{
+    height: 60px;
+    background-color:white        ;
+    color: white;
+    padding-left: 5px;
+    display: flex;
+    align-items: center;
+}
+.navlogo{
+    height: 50px;
+    width: 100px;
+}
+.logo{
+    background-image:url(logo.jpg) ;
+    background-size: cover;
+    height: 50px;
+    width: 100%;
+}
+.div{
+    width: 950px;
+    height: 100%;
+    
+}
+.personal{
+    height: 55px;
+    background-color: white;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    align-items: center;
+}
+.per{
+    width: 80px;
+    color: black;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+
+}
+*{
+    color: black;
+}
+.About{
+    width: 80px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+
+}
+.contact{
+    width: 80px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.border{
+    border: 2px solid transparent;
+}
+.border:hover{
+    border: 2px solid sandybrown;
+}
+.main{
+    background-image: url(Abhinav\ Bahadur\ Singh.png);
+    height: 700px;
+}
